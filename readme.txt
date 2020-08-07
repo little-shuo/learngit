@@ -3,4 +3,5 @@ Git is free software.
 I love it.
 Git has a mutable index called stage.
 Git tracks changes of files.
+test the first add,but not commit.
 
